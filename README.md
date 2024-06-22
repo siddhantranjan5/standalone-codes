@@ -1,4 +1,4 @@
-Sequence to Phylogenetic Tree Generator
+***Sequence to Phylogenetic Tree Generator***
 
 This Python-based tool consists of two scripts, "create_fasta_file.py" and "PhyloTree.py", designed to facilitate the generation of a phylogenetic tree from user-input sequences.
 
@@ -15,10 +15,12 @@ Key Features:
 Easy creation of a custom FASTA file with user-specified sequences.
 Generation of a phylogenetic tree from the created FASTA file.
 Visualization of the phylogenetic tree for easy interpretation.
+
 Usage:
 
 Run "create_fasta_file.py" and follow the prompts to enter sequence details.
 Run "PhyloTree.py" to generate and visualize the phylogenetic tree.
+
 Requirements:
 
 Python 3.x
